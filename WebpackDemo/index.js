@@ -1,6 +1,7 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 var Griddle = require('griddle-react');
+import fakeData from './fakeData.js';
 
 
 //ReactDOM.render(<h1>Hello React!</h1>, document.getElementById('root'));
